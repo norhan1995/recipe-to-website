@@ -27,3 +27,6 @@ Empty snippets show a helpful message. JavaScript syntax errors show feedback. R
 Learner selected personal page, guided editing, and modern/classy look; then approved the plan. Colors, snippet text, and implementation details are agent choices derived from that plan.
 ## Deferred From the POC
 Accounts, permanent saving, AI generation, server execution, collaboration, and a full programming course.
+
+## Approved expansion — October 5, 2026
+The learner requested a variety of useful app recipes and accepted the proposed first three: to-do list, task manager, and finance manager ("Okay lets do it"). Each has layout, design, actions, saving, and extras. Downloaded apps use local browser storage; preview data is temporary. Finance uses manually entered SAR amounts, integer cents, monthly filtering, a budget check, and CSV export. No bank connection or financial advice. Vercel deployment waits for preview review.

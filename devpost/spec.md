@@ -25,3 +25,6 @@ iframe uses allow-scripts without allow-same-origin. Its CSP denies external res
 Feature-detected set_recipe_code uses the same switch/run actions and validates inputs. Supported-context validation remains unavailable until a browser capable of that API is available; ordinary UI does not depend on it.
 ## Verification
 Check heading edits, CSS color, click interaction, independent export, mobile overflow, syntax feedback, and workspace errors. Learner hands-on review and reflection are separate from agent verification.
+
+## Approved expansion — October 5, 2026
+The learner requested a variety of useful app recipes and accepted the proposed first three: to-do list, task manager, and finance manager ("Okay lets do it"). Each has layout, design, actions, saving, and extras. Downloaded apps use local browser storage; preview data is temporary. Finance uses manually entered SAR amounts, integer cents, monthly filtering, a budget check, and CSV export. No bank connection or financial advice. Vercel deployment waits for preview review.

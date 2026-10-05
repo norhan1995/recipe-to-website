@@ -28,3 +28,6 @@ Accounts, payments, arbitrary project generation, AI runtime calls, and multi-us
 
 ## Open Review
 The learner approved the proposed experience and build order on October 5, 2026: “Yes the plan looks good”.
+
+## Approved expansion — October 5, 2026
+The learner requested a variety of useful app recipes and accepted the proposed first three: to-do list, task manager, and finance manager ("Okay lets do it"). Each has layout, design, actions, saving, and extras. Downloaded apps use local browser storage; preview data is temporary. Finance uses manually entered SAR amounts, integer cents, monthly filtering, a budget check, and CSV export. No bank connection or financial advice. Vercel deployment waits for preview review.

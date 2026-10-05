@@ -22,3 +22,6 @@ Build mode: fast, from the request to complete implementation and the approved b
 - [ ] Devpost submit and live verification.
 ## Revisions
 None yet.
+
+## Expansion verification
+Three recipe scripts passed Node syntax checks and isolated DOM-adapter tests for adding records, safe text rendering, saving/reloading records, task filters, finance integer-cent totals, month filters, and CSV formula neutralization. This is logic verification; full browser interaction, responsive visual review, and standalone download behavior remain for hands-on review.
